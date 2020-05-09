@@ -7,4 +7,4 @@ Setup:
 1. Import the contents into Eclipse as a Java project
 2. Go to Start.java and run the main method
 
-NOTE: Thread time measurement using the Management class was commented out because the instructions said not to include it in the submission.
+NOTE: Thread time measurement using the Management class was commented out.
