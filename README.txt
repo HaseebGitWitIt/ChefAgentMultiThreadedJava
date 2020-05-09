@@ -4,8 +4,7 @@ Agent.java: This class places ingredients on the table when it is empty.
 Chef.java: This class takes ingredients from the table when it is not empty, creates a sandwich and eats it.
 
 Setup:
-1. Unzip 101009713_Assignment3
-2. Import the contents of 101009713_Assignment3 into Eclipse as a Java project
-3. Go to Start.java and run the main method
+1. Import the contents into Eclipse as a Java project
+2. Go to Start.java and run the main method
 
 NOTE: Thread time measurement using the Management class was commented out because the instructions said not to include it in the submission.
